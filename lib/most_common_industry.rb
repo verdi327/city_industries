@@ -1,5 +1,2 @@
 require "most_common_industry/version"
-
-module MostCommonIndustry
-  # Your code goes here...
-end
+require "most_common_industry/city"
