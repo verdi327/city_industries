@@ -1,2 +1,2 @@
 require "most_common_industry/version"
-require "most_common_industry/city"
+require "most_common_industry/city_industries"

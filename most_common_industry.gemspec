@@ -16,5 +16,4 @@ Gem::Specification.new do |gem|
   gem.version       = MostCommonIndustry::VERSION
 
   gem.add_runtime_dependency('nokogiri')
-  gem.add_runtime_dependency('open-uri')
 end
